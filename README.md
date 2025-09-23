@@ -14,6 +14,9 @@
 - Javascript
 - React
 - Node js
+ 
+![Логотип](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
 ## Расписание на неделю
 # Расписание занятий
 
